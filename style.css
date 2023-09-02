@@ -5,7 +5,10 @@
 
 
 body {
-    background: url("./assets/images/supermarket.jpg") center/cover no-repeat;
+    background-image: url("./assets/images/supermarket.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     align-items: center;
