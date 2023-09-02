@@ -83,3 +83,18 @@ console.log(items);
 //TODO: Arreglar estilos para El boton agregar
 //TODO: Arreglar estilos generales
 //TODO: agregar validacion para NO recibir inputs vacios
+
+
+
+
+// const myFunction = () => {
+//     console.log("buuu!");
+// }
+
+const mensaje = "Gooooool!"
+
+const myFunction = (texto) => {
+    console.log(texto);
+}
+
+myFunction(mensaje)
